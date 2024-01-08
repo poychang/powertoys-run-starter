@@ -1,0 +1,14 @@
+{
+    "ID": "6f34e080c4664cbda43a3bd2f9572344",
+    "Disabled": false,
+    "ActionKeyword": "@",
+    "IsGlobal": false,
+    "Name": "Edge Favorite",
+    "Author": "poychang",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://aka.ms/powertoys",
+    "ExecuteFileName": "Community.PowerToys.Run.Plugin.Starter.dll",
+    "IcoPathDark": "Images\\Star.dark.png",
+    "IcoPathLight": "Images\\Star.light.png"
+}
